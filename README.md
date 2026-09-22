@@ -1,2 +1,2 @@
-# xray-noise-level-classification
+# x-ray-noise-level-classification
 Machine learning project for X-ray noise level classification.
